@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chihuy1905
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, "tôi là chihuy1905"
+- 👀 sdt 0866046213
+- 🌱 hiện tôi đang học đại học vinh
+- 💞️ tôi đang đi tìm cộng tác
+- 📫 liên hệ tôi theo gmail "nguyenhuy2001taythanh@gmail.com"
 
 <!---
 chihuy1905/chihuy1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
